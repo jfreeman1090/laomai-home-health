@@ -1,0 +1,7 @@
+```bash
+  git init
+  git add .
+  git commit -m "Initial commit - Laomai Home Health website"
+  git branch -M main
+  git remote add origin https://github.com/YOUR-GITHUB-USERNAME/laomai-home-health.git  # Replace YOUR-GITHUB-USERNAME with your GitHub username
+  git push -u origin main    
